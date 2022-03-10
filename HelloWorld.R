@@ -15,6 +15,3 @@ my_sqrt
 
 my_data <- c(1, 2, 3, 4) + c(0, 10)
 my_data
-
-how <- a
-how
